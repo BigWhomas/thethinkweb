@@ -38,9 +38,13 @@ header {
     align-content: center;
 }
 
+h1 {
+    text-decoration-line: line-through;
+}
 
 a {
-	font-size: 20px;
+	font-size: 15px;
+    text-decoration-line: blink;
 	font-style: italic;
 	color: blue;
 }
