@@ -16,20 +16,21 @@ body {
 }
 
 #wrapper {
-	width: 720px;
+	width: 480px;
     margin: auto;
     
 }
 
 header {
+    font-family: Arial, Helvetica, sans-serif;
 	color: white;
-	font-style: normal;
-	font-family: robotico;
+    font-weight: lighter;
 	font-size: 25px;
+    line-height: 35px;
 	background-color: #000;
 	text-align: center;
-	margin: 5px;
-	padding: 1px;
+	margin: 15px;
+	padding: 5px;
     border-style: dashed;
     border-radius: 10px;
     border-color: white;
