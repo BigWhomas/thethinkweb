@@ -11,13 +11,13 @@ body {
 	font-family: helvetica;
 	font-size: 14px;
 	margin: 10px;
-	word-wrap: break-word;
+	align-content: center;
 
 }
 
 #wrapper {
 	width: 720px;
-    align-content: center;
+    
 }
 
 header {
