@@ -8,24 +8,28 @@ body {
 	background-repeat: no-repeat; 
 	background-attachment: fixed; 
 	background-size: cover;
-	
 	font-family: helvetica;
 	font-size: 14px;
+	margin: 10px;
+	word-wrap: break-word;
+	text-align: center;
 }
 
-h1 {
+#wrapper {
+	width: 720px;
+}
+
+header {
 	color: white;
 	font-style: normal;
 	font-family: robotico;
-	font-size: 3.5em;
+	font-size: 25px;
 	background-color: #000;
 	text-align: center;
-	margin: 20px;
-	padding: 40px;
+	margin: 5px;
+	padding: 1px;
     border-style: dashed;
-    border-width: 10px;
-    border-left-width: 10px;
-    border-right-width: 10px;
+    border-radius: 10px;
     border-color: white;
 	text-transform: uppercase;
 }
