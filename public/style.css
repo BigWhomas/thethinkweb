@@ -3,7 +3,58 @@
    "how to change link color." */
 
 body {
-  background-color: white;
-  color: black;
-  font-family: Verdana;
+	
+	background-image: url('bg.png'); 
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-size: cover;
+	
+	font-family: helvetica;
+	font-size: 14px;
+}
+
+h1 {
+	font-style: normal;
+	font-family: robotico;
+	font-size: 3.5em;
+	background-color: #000;
+	text-align: center;
+	margin: 20px;
+	padding: 40px;
+    border-style: dashed;
+    border-width: 10px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: white;
+	text-transform: uppercase;
+}
+
+h2 {
+	text-align: center;	
+}
+
+p {
+	letter-spacing: 0.5em;
+    word-spacing: 2em;
+    line-height: 1.5;
+    text-align: center;
+	font-weight: bold;
+	color: white;
+}
+
+a {
+	font-size: 20px;
+	font-style: italic;
+	color: blue;
+}
+
+dt {
+	text-align: center;
+	font-weight: bolder;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+dd {
+	text-align: center;
+	font-weight: lighter;
 }
