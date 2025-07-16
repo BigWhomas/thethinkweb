@@ -170,7 +170,6 @@ h3 {
 h4 {
 	font-size: 1rem;
 	color: var(--accent);
-	padding-left: 12px;
 }
 
 /* prevents overflow on smaller screens */
