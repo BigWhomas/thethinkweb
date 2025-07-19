@@ -8,7 +8,7 @@
 		--gradientBottom: rgb(240, 248, 255, .8);
 	}
 	header {
-		background: url('https://i.imgur.com/ML0XLHb.jpeg');
+		background: url(https://i.imgur.com/ML0XLHb.jpeg);
 	}
 /* end light mode styling */
 
@@ -25,7 +25,7 @@
 			a:link { color: lightblue; }
 		}
 		header {
-			background: url('https://i.imgur.com/qUfSRI4.png');
+			background: url(https://i.imgur.com/qUfSRI4.png);
 		}
 	}
 /* end dark mode styling */
