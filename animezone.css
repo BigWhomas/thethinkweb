@@ -1,11 +1,9 @@
 body {
-    background-image: url('bg.png');
-    background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: cover;
-    font-family: "Open Sans", serif;
-    font-size: 14px;
-    color: black;
+  background: url(public/bg.png) fixed no-repeat;
+  background-size: cover;
+  font-family: "Open Sans", serif;
+  font-size: 14px;
+  color: black;
   }
 
 h1 {
